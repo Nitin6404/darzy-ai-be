@@ -1,0 +1,22 @@
+# Core dependencies for product to Pinecone processing
+pinecone
+sentence-transformers
+torch
+transformers
+numpy
+scipy
+scikit-learn
+
+# API dependencies
+fastapi
+uvicorn
+pydantic
+
+# LangChain dependencies
+langchain
+langchain-openai
+langchain-community
+
+# Additional utilities
+python-dotenv
+requests
