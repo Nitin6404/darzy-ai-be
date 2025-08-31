@@ -6,6 +6,9 @@ from sentence_transformers import SentenceTransformer
 import hashlib
 from datetime import datetime
 from langchain_openai import OpenAIEmbeddings
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class ProductToPinecone:
     def __init__(self, pinecone_api_key: str, index_name: str = "product-vectors"):
@@ -321,6 +324,7 @@ class ProductToPinecone:
             query_args["filter"] = filters
 
         results = self.index.query(**query_args)
+        print(results)
         return results.matches
 
     def format_search_results(self, matches: List[Dict[str, Any]]) -> List[dict]:
@@ -374,27 +378,23 @@ def main():
     processor = ProductToPinecone(PINECONE_API_KEY, INDEX_NAME)
     
     try:
+
+        # NO NEED TO DO STORE & PROCESSING ANYMORE AS PINECONE ALR HAVE THE DATA.
+
         # Process and store products
-        print("Starting product processing and storage...")
-        processor.process_and_store_products(JSON_FILE_PATH)
+        # print("Starting product processing and storage...")
+        # processor.process_and_store_products(JSON_FILE_PATH)
+
+        processor.setup_index()
         
         # Example search
         print("\n" + "="*50)
         print("Testing search functionality:")
-        filters = {"brand": {"$eq": "Patagonia"}, "color": {"$in": ["blue"]}}
+        filters = {"brand": {"$eq": "Patagonia"}, "color": {"$in": ["Blue"]}}
         results = processor.query_products("jacket", top_k=5, filters=filters)
-        
-        # for i, result in enumerate(results, 1):
-        #     print(f"\nResult {i} (Score: {result.score:.4f}):")
-        #     metadata = result.metadata
-        #     print(f"  Title: {metadata.get('title', 'N/A')}")
-        #     print(f"  Brand: {metadata.get('brand', 'N/A')}")
-        #     print(f"  Price: ${metadata.get('price', 'N/A')}")
-        #     print(f"  Category: {metadata.get('category', 'N/A')}")
-        #     print(f"  Color: {metadata.get('color_display', 'N/A')}")
 
-        for r in results:
-            print(r)
+        # without filters
+        # results = processor.query_products("jacket", top_k=5)
         
     except Exception as e:
         print(f"Error during processing: {e}")
