@@ -5,6 +5,7 @@ from pinecone import Pinecone, ServerlessSpec
 from sentence_transformers import SentenceTransformer
 import hashlib
 from datetime import datetime
+from langchain_openai import OpenAIEmbeddings
 
 class ProductToPinecone:
     def __init__(self, pinecone_api_key: str, index_name: str = "product-vectors"):
@@ -17,15 +18,15 @@ class ProductToPinecone:
         """
         self.pc = Pinecone(api_key=pinecone_api_key)
         self.index_name = index_name
-        self.model = SentenceTransformer('all-MiniLM-L6-v2')  # Lightweight embedding model
+        self.embedder = OpenAIEmbeddings(model="text-embedding-3-large")
         self.index = None
         
-    def setup_index(self, dimension: int = 384, metric: str = "cosine"):
+    def setup_index(self, dimension: int = 3072, metric: str = "cosine"):
         """
         Create or connect to Pinecone index
         
         Args:
-            dimension: Vector dimension (384 for all-MiniLM-L6-v2)
+            dimension: Vector dimension (3072 for text-embedding-3-large)
             metric: Distance metric for similarity search
         """
         try:
@@ -72,13 +73,13 @@ class ProductToPinecone:
             print(f"Error loading JSON file: {e}")
             raise
     
-    def structure_product_data(product: dict) -> dict:
+    def structure_product_data(self, product: dict) -> dict:
         """
         Process raw product data into:
         1. structured metadata (for filters & faceting)
         2. flattened text (for embeddings)
         """
-        structured = {}
+        structured = {} # like object from js
 
         # Core identity
         structured['id'] = str(product.get('id', ''))
@@ -132,12 +133,9 @@ class ProductToPinecone:
         structured['updated_at'] = product.get('updated_at', '')
         structured['published_at'] = product.get('published_at', '')
 
-        # --- Flattened text for embeddings ---
-        structured['embedding_text'] = product_to_embedding_text(structured)
+        return structured # returing the object
 
-        return structured
-
-    def product_to_embedding_text(structured: dict) -> str:
+    def product_to_embedding_text(self, structured: dict) -> str: # returning a string
         """Convert structured product metadata into a natural descriptive string for embeddings"""
         parts = []
 
@@ -211,6 +209,21 @@ class ProductToPinecone:
         unique_string = f"{product_data.get('id', '')}_{product_data.get('handle', '')}"
         return hashlib.md5(unique_string.encode()).hexdigest()
     
+    def safe_metadata(self, structured: dict) -> dict:
+        """Trim structured product into Pinecone-safe metadata"""
+        return {
+            "title": structured.get("title", "")[:300],
+            "brand": structured.get("brand", "")[:100],
+            "vendor": structured.get("vendor", "")[:100],
+            "price": structured.get("price", 0),
+            "category": structured.get("category", [])[:5],
+            "color": structured.get("color", [])[:3],
+            "size": structured.get("size", [])[:3],
+            "condition": structured.get("condition", [])[:2],
+            "product_type": structured.get("product_type", "")[:100],
+            "processed_at": datetime.now().isoformat()
+        }
+
     def process_and_store_products(self, json_file_path: str, batch_size: int = 100):
         """
         Process products from JSON file and store in Pinecone
@@ -240,29 +253,18 @@ class ProductToPinecone:
         for i, product in enumerate(products):
             try:
                 # Structure the product data
-                structured_product = self.structure_product_data(product)
+                structured_product = self.structure_product_data(product) # getting a object
 
-                embedding_text = self.product_to_embedding_text(structured_product)
+                embedding_text = self.product_to_embedding_text(structured_product) # getting a string
                 
                 # Generate embedding
-                embedding = self.model.encode(embedding_text).tolist()
+                embedding = self.embedder.embed_query(embedding_text) # getting a vector
                 
                 # Create vector ID
-                vector_id = self.generate_vector_id(structured_product)
+                vector_id = self.generate_vector_id(structured_product) # getting a vector id
                 
                 # Prepare metadata (Pinecone has metadata size limits)
-                metadata = {
-                    'title': structured_product.get('title', '')[:500],  # Limit length
-                    'brand': structured_product.get('brand', '')[:100],
-                    'vendor': structured_product.get('vendor', '')[:100],
-                    'price': structured_product.get('price', 0),
-                    'category': structured_product.get('category', [])[:5],  # Limit array size
-                    'color_display': structured_product.get('color_display', '')[:100],
-                    'department': structured_product.get('department', [])[:3],
-                    'product_type': structured_product.get('product_type', '')[:100],
-                    'handle': structured_product.get('handle', '')[:200],
-                    'processed_at': datetime.now().isoformat()
-                }
+                metadata = self.safe_metadata(structured_product)
                 
                 # Add to batch
                 vectors_to_upsert.append({
@@ -313,7 +315,7 @@ class ProductToPinecone:
             return []
         
         # Generate query embedding
-        query_embedding = self.model.encode(query).tolist()
+        query_embedding = self.embedder.embed_query(query)
         
         # Search in Pinecone
         results = self.index.query(
