@@ -72,96 +72,130 @@ class ProductToPinecone:
             print(f"Error loading JSON file: {e}")
             raise
     
-    def structure_product_data(self, product: Dict[str, Any]) -> Dict[str, Any]:
+    def structure_product_data(product: dict) -> dict:
         """
-        Structure product data for better organization
-        
-        Args:
-            product: Raw product data from Algolia
-            
-        Returns:
-            Structured product data
+        Process raw product data into:
+        1. structured metadata (for filters & faceting)
+        2. flattened text (for embeddings)
         """
-        # Extract key information
-        structured = {
-            'id': str(product.get('id', '')),
-            'title': product.get('title', ''),
-            'vendor': product.get('vendor', ''),
-            'product_type': product.get('product_type', ''),
-            'handle': product.get('handle', ''),
-            'price': product.get('price', 0),
-            'compare_at_price': product.get('compare_at_price', 0),
-            'price_ratio': product.get('price_ratio', 0),
-            'tags': product.get('tags', []),
-            'collections': product.get('collections', []),
-            'options': product.get('options', {}),
-            'created_at': product.get('created_at', ''),
-            'updated_at': product.get('updated_at', ''),
-        }
-        
-        # Extract metadata if available
-        meta = product.get('meta', {})
-        if meta:
-            # Trove facets
-            trove_facets = meta.get('trove-facets', {})
-            structured['category'] = trove_facets.get('category', [])
-            structured['color'] = trove_facets.get('color', [])
-            structured['department'] = trove_facets.get('department', [])
-            structured['gender'] = trove_facets.get('gender', [])
-            structured['size'] = trove_facets.get('size', [])
-            structured['condition'] = trove_facets.get('condition', [])
-            
-            # Trove storefront data
-            trove_storefront = meta.get('trove-storefront', {}).get('data', {})
-            structured['brand'] = trove_storefront.get('brand', '')
-            structured['color_display'] = trove_storefront.get('colorDisplay', '')
-            structured['material'] = trove_storefront.get('material', '')
-            structured['details'] = trove_storefront.get('details', [])
-            structured['fit'] = trove_storefront.get('fit', '')
-            structured['weight'] = trove_storefront.get('weightOz', '')
-            
+        structured = {}
+
+        # Core identity
+        structured['id'] = str(product.get('id', ''))
+        structured['title'] = product.get('title', '')
+        structured['vendor'] = product.get('vendor', '')
+        structured['brand'] = product.get('meta', {}).get('trove-storefront', {}).get('data', {}).get('brand', '')
+        structured['product_type'] = product.get('product_type', '')
+        structured['collections'] = product.get('collections', [])
+        structured['sku'] = product.get('sku', '')
+        structured['variant_title'] = product.get('variant_title', '')
+
+        # Pricing
+        structured['price'] = product.get('price', 0)
+        structured['compare_at_price'] = product.get('compare_at_price', 0)
+        structured['price_range'] = product.get('price_range', '')
+        structured['price_ratio'] = product.get('price_ratio', 0)
+        structured['variants_min_price'] = product.get('variants_min_price', 0)
+        structured['variants_max_price'] = product.get('variants_max_price', 0)
+
+        # Facets (color, size, gender, condition, etc.)
+        facets = product.get('meta', {}).get('trove-facets', {})
+        structured['category'] = facets.get('category', [])
+        structured['color'] = facets.get('color', [])
+        structured['department'] = facets.get('department', [])
+        structured['gender'] = facets.get('gender', [])
+        structured['size'] = facets.get('size', [])
+        structured['condition'] = facets.get('condition', [])
+
+        # Storefront data (detailed info)
+        storefront = product.get('meta', {}).get('trove-storefront', {}).get('data', {})
+        structured['color_display'] = storefront.get('colorDisplay', '')
+        structured['material'] = storefront.get('material', '')
+        structured['fit'] = storefront.get('fit', '')
+        structured['details'] = storefront.get('details', [])
+        structured['weight'] = storefront.get('weightOz', '')
+
+        # Tags
+        structured['tags'] = product.get('tags', [])
+        structured['named_tags'] = product.get('named_tags', {})
+        structured['named_tags_names'] = product.get('named_tags_names', [])
+
+        # Options
+        structured['options'] = product.get('options', {})
+        structured['option_names'] = product.get('option_names', [])
+
+        # Images
+        structured['product_image'] = product.get('product_image', product.get('image', ''))
+
+        # Timestamps
+        structured['created_at'] = product.get('created_at', '')
+        structured['updated_at'] = product.get('updated_at', '')
+        structured['published_at'] = product.get('published_at', '')
+
+        # --- Flattened text for embeddings ---
+        structured['embedding_text'] = product_to_embedding_text(structured)
+
         return structured
-    
-    def create_searchable_text(self, structured_product: Dict[str, Any]) -> str:
-        """
-        Create searchable text from structured product data
-        
-        Args:
-            structured_product: Structured product data
-            
-        Returns:
-            Combined text for embedding
-        """
-        text_parts = []
-        
-        # Add title and brand
-        if structured_product.get('title'):
-            text_parts.append(f"Title: {structured_product['title']}")
-        if structured_product.get('brand'):
-            text_parts.append(f"Brand: {structured_product['brand']}")
-        if structured_product.get('vendor'):
-            text_parts.append(f"Vendor: {structured_product['vendor']}")
-            
-        # Add categories and tags
-        if structured_product.get('category'):
-            text_parts.append(f"Category: {', '.join(structured_product['category'])}")
-        if structured_product.get('tags'):
-            text_parts.append(f"Tags: {', '.join(structured_product['tags'])}")
-            
-        # Add product details
-        if structured_product.get('color_display'):
-            text_parts.append(f"Color: {structured_product['color_display']}")
-        if structured_product.get('material'):
-            text_parts.append(f"Material: {structured_product['material']}")
-        if structured_product.get('fit'):
-            text_parts.append(f"Fit: {structured_product['fit']}")
-            
-        # Add detailed features
-        if structured_product.get('details'):
-            details_text = ' '.join(structured_product['details'])
-            text_parts.append(f"Details: {details_text}")
-            
-        return ' '.join(text_parts)
+
+    def product_to_embedding_text(structured: dict) -> str:
+        """Convert structured product metadata into a natural descriptive string for embeddings"""
+        parts = []
+
+        # Identity
+        if structured.get("title"):
+            parts.append(structured["title"])
+        if structured.get("brand"):
+            parts.append(f"by {structured['brand']}")
+        if structured.get("vendor"):
+            parts.append(f"Sold by {structured['vendor']}")
+        if structured.get("product_type"):
+            parts.append(f"Type: {structured['product_type']}")
+        if structured.get("variant_title"):
+            parts.append(f"Variant: {structured['variant_title']}")
+
+        # Category & segmentation
+        if structured.get("category"):
+            parts.append("Category: " + ", ".join(structured["category"]))
+        if structured.get("department"):
+            parts.append("Department: " + ", ".join(structured["department"]))
+        if structured.get("gender"):
+            parts.append("Gender: " + ", ".join(structured["gender"]))
+
+        # Attributes
+        if structured.get("color_display"):
+            parts.append(f"Color: {structured['color_display']}")
+        elif structured.get("color"):
+            parts.append("Color: " + ", ".join(structured["color"]))
+        if structured.get("size"):
+            parts.append("Size: " + ", ".join(structured["size"]))
+        if structured.get("condition"):
+            parts.append("Condition: " + ", ".join(structured["condition"]))
+        if structured.get("fit"):
+            parts.append(f"Fit: {structured['fit']}")
+
+        # Material & features
+        if structured.get("material"):
+            parts.append(f"Material: {structured['material']}")
+        if structured.get("details"):
+            parts.append("Features: " + "; ".join(structured["details"]))
+
+        # Options
+        if structured.get("option_names"):
+            parts.append("Options: " + ", ".join(structured["option_names"]))
+
+        # Tags
+        if structured.get("named_tags_names"):
+            parts.append("Tags: " + ", ".join(structured["named_tags_names"]))
+
+        # Collections
+        if structured.get("collections"):
+            parts.append("Collections: " + ", ".join(structured["collections"]))
+
+        # Price
+        if structured.get("price_range"):
+            parts.append(f"Price Range: {structured['price_range']}")
+
+        return ". ".join(parts) + "."
     
     def generate_vector_id(self, product_data: Dict[str, Any]) -> str:
         """
@@ -207,12 +241,11 @@ class ProductToPinecone:
             try:
                 # Structure the product data
                 structured_product = self.structure_product_data(product)
-                
-                # Create searchable text
-                searchable_text = self.create_searchable_text(structured_product)
+
+                embedding_text = self.product_to_embedding_text(structured_product)
                 
                 # Generate embedding
-                embedding = self.model.encode(searchable_text).tolist()
+                embedding = self.model.encode(embedding_text).tolist()
                 
                 # Create vector ID
                 vector_id = self.generate_vector_id(structured_product)
