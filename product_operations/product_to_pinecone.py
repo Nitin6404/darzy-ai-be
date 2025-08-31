@@ -264,7 +264,8 @@ class ProductToPinecone:
                 embedding = self.embedder.embed_query(embedding_text) # getting a vector
                 
                 # Create vector ID
-                vector_id = self.generate_vector_id(structured_product) # getting a vector id
+                # vector_id = self.generate_vector_id(structured_product) # getting a vector id
+                vector_id = str(product.get("id"))
                 
                 # Prepare metadata (Pinecone has metadata size limits)
                 metadata = self.safe_metadata(structured_product)
@@ -392,6 +393,7 @@ def main():
         print("Testing search functionality:")
         filters = {"brand": {"$eq": "Patagonia"}, "color": {"$in": ["Blue"]}}
         results = processor.query_products("jacket", top_k=5, filters=filters)
+        # print(results)
 
         # without filters
         # results = processor.query_products("jacket", top_k=5)

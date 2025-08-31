@@ -1,5 +1,6 @@
 # Core dependencies for product to Pinecone processing
 pinecone
+pymongo
 sentence-transformers
 torch
 transformers

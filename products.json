@@ -1,0 +1,3118 @@
+[
+  {
+    "_id": "8583126253864",
+    "price": 251,
+    "compare_at_price": 399,
+    "price_ratio": 0.6290726817042607,
+    "price_range": "250:300",
+    "variants_min_price": 251,
+    "variants_max_price": 279,
+    "variants_compare_at_price_min": 399,
+    "variants_compare_at_price_max": 399,
+    "id": 8583126253864,
+    "product_type": "85500",
+    "vendor": "Patagonia",
+    "title": "Men's Fitz Roy Down Hoody",
+    "handle": "mens-fitz-roy-down-hoody_85500_apbl",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/oacqaqf20bwzmaqj3st3.jpg?v=1724160414",
+    "tags": [
+      "Anacapa Blue",
+      "Blue",
+      "Jackets",
+      "Men's"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8583126253864",
+      "product:8583126253864",
+      "variant:50219847254312"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 41,
+          "storefrontRank": 227,
+          "weeksOfSupply": 2
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250605"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Blue"
+        ],
+        "condition": [
+          "Great condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$250 - $299"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Fitz Roy Down"
+        ],
+        "season": [
+          "FA22"
+        ],
+        "size": [
+          "XL"
+        ]
+      },
+      "trove-options": {
+        "size_code": "XL"
+      },
+      "trove-pricing": {
+        "msrp_price": 39900
+      },
+      "trove-product": {
+        "color_code": "APBL",
+        "color_display": "Anacapa Blue",
+        "parent_sku": "85500"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "APBL",
+          "colorDisplay": "Anacapa Blue",
+          "colorFamily": "Blue",
+          "colorHex": "#2D80A7",
+          "details": [
+            "Light and durable recycled nylon shell with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) provides weather protection and is soft to the touch",
+            "800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272) provides high-loft warmth in an ultrapackable midweight layer",
+            "Alpine helmet\u2013compatible hood has a single-pull drawcord and high-loft draft collar",
+            "Center-front Vislon\u00ae zipper is backed with an internal storm flap",
+            "Two handwarmer and two external, zippered chest pockets allow for easy access while belaying; self-stuffs into left-front pocket",
+            "Large internal catch-all pocket with elasticized opening allows for easy storage",
+            "Soft, elasticized stitching at cuffs and dual-adjust cord-lock system at hem seal out the elements; Fair Trade Certified\u2122 sewn"
+          ],
+          "endUse": "Alpine Climb",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "insulation": "Down Insulation - Responsible",
+          "material": "Shell: 1.1-oz 20-denier Pertex\u00ae Quantum 100% recycled nylon ripstop with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Lining: 1-oz 10-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish. Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272). Fair Trade Certified\u2122 sewn",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Fitz Roy Down",
+          "seasonCode": "FA22",
+          "seasonDisplay": "Fall 2022",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Light and durable recycled nylon shell with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) provides weather protection and is soft to the touch",
+                    "800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272) provides high-loft warmth in an ultrapackable midweight layer",
+                    "Alpine helmet\u2013compatible hood has a single-pull drawcord and high-loft draft collar",
+                    "Center-front Vislon\u00ae zipper is backed with an internal storm flap",
+                    "Two handwarmer and two external, zippered chest pockets allow for easy access while belaying; self-stuffs into left-front pocket",
+                    "Large internal catch-all pocket with elasticized opening allows for easy storage",
+                    "Soft, elasticized stitching at cuffs and dual-adjust cord-lock system at hem seal out the elements; Fair Trade Certified\u2122 sewn"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "Shell: 1.1-oz 20-denier Pertex\u00ae Quantum 100% recycled nylon ripstop with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Lining: 1-oz 10-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish. Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272). Fair Trade Certified\u2122 sewn"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "17.1 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Fitz Roy Down Hoody",
+          "tradeinValue": "10",
+          "weightOz": "17.1",
+          "workbookFeature1": "Light and durable recycled nylon shell with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) provides weather protection and is soft to the touch",
+          "workbookFeature2": "800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272) provides high-loft warmth in an ultrapackable midweight layer",
+          "workbookFeature3": "Alpine helmet\u2013compatible hood has a single-pull drawcord and high-loft draft collar",
+          "workbookFeature4": "Center-front Vislon\u00ae zipper is backed with an internal storm flap",
+          "workbookFeature5": "Two handwarmer and two external, zippered chest pockets allow for easy access while belaying; self-stuffs into left-front pocket",
+          "workbookFeature6": "Large internal catch-all pocket with elasticized opening allows for easy storage",
+          "workbookFeature7": "Soft, elasticized stitching at cuffs and dual-adjust cord-lock system at hem seal out the elements; Fair Trade Certified\u2122 sewn"
+        }
+      }
+    },
+    "sku": "85500_APBL_XL_Great condition",
+    "variant_title": "XL / Great condition",
+    "variants_count": 7,
+    "barcode": null,
+    "position": 6,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/oacqaqf20bwzmaqj3st3.jpg?v=1724160414",
+    "inventory_policy": "deny",
+    "inventory_quantity": 1,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 1,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Great condition",
+      "size": "XL"
+    },
+    "option1": "XL",
+    "option2": "Great condition",
+    "option3": null,
+    "created_at": "2025-06-06T01:15:31.000Z",
+    "updated_at": "2025-08-28T07:06:11.000Z",
+    "published_at": "2023-09-12T13:31:47.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "mens-technical-fleece",
+      "shop-by-activity",
+      "climbing",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462750581032,
+      462763950376,
+      462764310824,
+      482754920744,
+      497794482472
+    ],
+    "objectID": "50219847254312",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Fitz Roy Down Hoody",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Fitz Roy Down",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Anacapa Blue",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "85500",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8583153713448",
+    "price": 188,
+    "compare_at_price": 329,
+    "price_ratio": 0.5714285714285714,
+    "price_range": "150:200",
+    "variants_min_price": 150,
+    "variants_max_price": 188,
+    "variants_compare_at_price_min": 329,
+    "variants_compare_at_price_max": 329,
+    "id": 8583153713448,
+    "product_type": "84702",
+    "vendor": "Patagonia",
+    "title": "Men's Down Sweater Hoody",
+    "handle": "mens-down-sweater-hoody_84702_blk",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/nzoedb6qax7yuvmog0ie.jpg?v=1724160585",
+    "tags": [
+      "Black",
+      "Jackets",
+      "Men's"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8583153713448",
+      "product:8583153713448",
+      "variant:48382234001704"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 34,
+          "storefrontRank": 454,
+          "weeksOfSupply": 3
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250703",
+          "20250528",
+          "20250515",
+          "20250519",
+          "20250529",
+          "20250612",
+          "20250507",
+          "20231130",
+          "20250402"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Black"
+        ],
+        "condition": [
+          "Excellent condition",
+          "Great condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$150 - $199"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Down Sweater"
+        ],
+        "season": [
+          "FA23",
+          "FA22",
+          "FA24"
+        ],
+        "size": [
+          "3XL",
+          "S",
+          "XL",
+          "XS",
+          "XXS"
+        ]
+      },
+      "trove-options": {
+        "size_code": "S"
+      },
+      "trove-pricing": {
+        "msrp_price": 32900
+      },
+      "trove-product": {
+        "color_code": "BLK",
+        "color_display": "Black",
+        "parent_sku": "84702"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "BLK",
+          "colorDisplay": "Black",
+          "colorFamily": "Black",
+          "colorHex": "#191718",
+          "details": [
+            "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+            "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+            "Single-pull-adjustable hood; center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+            "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+            "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+            "Includes a repair patch to use for quick fixes on the go",
+            "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+          ],
+          "endUse": "Multi-Function",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Bestsellers",
+              "Technical Insulation"
+            ],
+            "patagoniaFavorite": [
+              "True"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "insulation": "Down Insulation - Responsible",
+          "material": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Down Sweater",
+          "seasonCode": "FA22",
+          "seasonDisplay": "Fall 2022",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+                    "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+                    "Single-pull-adjustable hood; center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+                    "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+                    "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+                    "Includes a repair patch to use for quick fixes on the go",
+                    "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "14.8 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Down Sweater Hoody",
+          "tradeinValue": "20",
+          "weightOz": "14.8",
+          "workbookFeature1": "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+          "workbookFeature2": "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+          "workbookFeature3": "Single-pull-adjustable hood; center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+          "workbookFeature4": "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+          "workbookFeature5": "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+          "workbookFeature6": "Includes a repair patch to use for quick fixes on the go",
+          "workbookFeature7": "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+        }
+      }
+    },
+    "sku": "84702_BLK_S_Excellent condition",
+    "variant_title": "S / Excellent condition",
+    "variants_count": 18,
+    "barcode": null,
+    "position": 5,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/nzoedb6qax7yuvmog0ie.jpg?v=1724160585",
+    "inventory_policy": "deny",
+    "inventory_quantity": 8,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 17,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Excellent condition",
+      "size": "S"
+    },
+    "option1": "S",
+    "option2": "Excellent condition",
+    "option3": null,
+    "created_at": "2024-05-02T23:50:57.000Z",
+    "updated_at": "2025-08-28T08:47:34.000Z",
+    "published_at": "2023-09-12T13:41:28.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "down-sweater-insulation",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "patagonia-favorites",
+      "best-sellers",
+      "technical-insulation",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462730887464,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      464884269352,
+      465125835048,
+      471069032744,
+      482754920744,
+      497794482472
+    ],
+    "recently_ordered_count": 5,
+    "objectID": "48382234001704",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Down Sweater Hoody",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Down Sweater",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Black",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "84702",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8583154237736",
+    "price": 181,
+    "compare_at_price": 329,
+    "price_ratio": 0.5501519756838906,
+    "price_range": "150:200",
+    "variants_min_price": 161,
+    "variants_max_price": 201,
+    "variants_compare_at_price_min": 329,
+    "variants_compare_at_price_max": 329,
+    "id": 8583154237736,
+    "product_type": "84702",
+    "vendor": "Patagonia",
+    "title": "Men's Down Sweater Hoody",
+    "handle": "mens-down-sweater-hoody_84702_nena",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/pkfaed8dj8k4hek2oypf.jpg?v=1724160596",
+    "tags": [
+      "Blue",
+      "Jackets",
+      "Men's",
+      "New Navy"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8583154237736",
+      "product:8583154237736",
+      "variant:50453360083240"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 46,
+          "storefrontRank": 23,
+          "weeksOfSupply": 4
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250403",
+          "20250528",
+          "20250421"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Blue"
+        ],
+        "condition": [
+          "Good condition",
+          "Great condition",
+          "Excellent condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$150 - $199",
+          "$200 - $249"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Down Sweater"
+        ],
+        "season": [
+          "FA23",
+          "FA22"
+        ],
+        "size": [
+          "3XL",
+          "XS"
+        ]
+      },
+      "trove-options": {
+        "size_code": "XS"
+      },
+      "trove-pricing": {
+        "msrp_price": 32900
+      },
+      "trove-product": {
+        "color_code": "NENA",
+        "color_display": "New Navy",
+        "parent_sku": "84702"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "NENA",
+          "colorDisplay": "New Navy",
+          "colorFamily": "Blue",
+          "colorHex": "#001F42",
+          "details": [
+            "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+            "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+            "Single-pull-adjustable hood; center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+            "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+            "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+            "Includes a repair patch to use for quick fixes on the go",
+            "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+          ],
+          "endUse": "Multi-Function",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Bestsellers",
+              "Technical Insulation"
+            ],
+            "patagoniaFavorite": [
+              "True"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "insulation": "Down Insulation - Responsible",
+          "material": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Down Sweater",
+          "seasonCode": "FA22",
+          "seasonDisplay": "Fall 2022",
+          "sizeCode": "XXS",
+          "sizeDisplay": "XXS",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+                    "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+                    "Single-pull-adjustable hood; center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+                    "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+                    "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+                    "Includes a repair patch to use for quick fixes on the go",
+                    "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "14.8 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Down Sweater Hoody",
+          "tradeinValue": "20",
+          "weightOz": "14.8",
+          "workbookFeature1": "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+          "workbookFeature2": "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+          "workbookFeature3": "Single-pull-adjustable hood; center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+          "workbookFeature4": "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+          "workbookFeature5": "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+          "workbookFeature6": "Includes a repair patch to use for quick fixes on the go",
+          "workbookFeature7": "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+        }
+      }
+    },
+    "sku": "84702_NENA_XS_Great condition",
+    "variant_title": "XS / Great condition",
+    "variants_count": 14,
+    "barcode": null,
+    "position": 14,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/pkfaed8dj8k4hek2oypf.jpg?v=1724160596",
+    "inventory_policy": "deny",
+    "inventory_quantity": 1,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 5,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Great condition",
+      "size": "XS"
+    },
+    "option1": "XS",
+    "option2": "Great condition",
+    "option3": null,
+    "created_at": "2025-07-30T10:44:04.000Z",
+    "updated_at": "2025-08-28T08:46:47.000Z",
+    "published_at": "2023-09-12T13:41:40.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "down-sweater-insulation",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "patagonia-favorites",
+      "best-sellers",
+      "technical-insulation",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462730887464,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      464884269352,
+      465125835048,
+      471069032744,
+      482754920744,
+      497794482472
+    ],
+    "objectID": "50453360083240",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Down Sweater Hoody",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Down Sweater",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "New Navy",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "84702",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8583158595880",
+    "price": 179,
+    "compare_at_price": 279,
+    "price_ratio": 0.6415770609318996,
+    "price_range": "150:200",
+    "variants_min_price": 143,
+    "variants_max_price": 179,
+    "variants_compare_at_price_min": 279,
+    "variants_compare_at_price_max": 279,
+    "id": 8583158595880,
+    "product_type": "84675",
+    "vendor": "Patagonia",
+    "title": "Men's Down Sweater",
+    "handle": "mens-down-sweater_84675_blk",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/b7focj1exezoe8vtugse.jpg?v=1724160620",
+    "tags": [
+      "Black",
+      "Jackets",
+      "Men's"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8583158595880",
+      "product:8583158595880",
+      "variant:48217385730344"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 41,
+          "storefrontRank": 402,
+          "weeksOfSupply": 10
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250716",
+          "20250602",
+          "20250729",
+          "20250528",
+          "20250523",
+          "20250616",
+          "20250715",
+          "20250611",
+          "20250812",
+          "20250819",
+          "20250515",
+          "20250723",
+          "20250404",
+          "20250514",
+          "20250605",
+          "20250416",
+          "20250407",
+          "20250527"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Black"
+        ],
+        "condition": [
+          "Excellent condition",
+          "Great condition",
+          "Good condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$150 - $199",
+          "$100 - $149"
+        ],
+        "markdownReason": [
+          "01"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Down Sweater"
+        ],
+        "season": [
+          "FA24",
+          "FA23",
+          "SP24",
+          "SP23",
+          "SP25",
+          "FA22"
+        ],
+        "size": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL",
+          "XXS"
+        ]
+      },
+      "trove-options": {
+        "size_code": "L"
+      },
+      "trove-pricing": {
+        "msrp_price": 27900
+      },
+      "trove-product": {
+        "color_code": "BLK",
+        "color_display": "Black",
+        "parent_sku": "84675"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "BLK",
+          "colorDisplay": "Black",
+          "colorFamily": "Black",
+          "colorHex": "#191718",
+          "details": [
+            "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+            "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+            "Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+            "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+            "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+            "Includes a repair patch to use for quick fixes on the go",
+            "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+          ],
+          "endUse": "Multi-Function",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Bestsellers",
+              "Technical Insulation"
+            ],
+            "patagoniaFavorite": [
+              "True"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "insulation": "Down Insulation - Responsible",
+          "material": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Down Sweater",
+          "seasonCode": "FA22",
+          "seasonDisplay": "Fall 2022",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+                    "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+                    "Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+                    "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+                    "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+                    "Includes a repair patch to use for quick fixes on the go",
+                    "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "13 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Down Sweater",
+          "tradeinValue": "20",
+          "weightOz": "13",
+          "workbookFeature1": "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+          "workbookFeature2": "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+          "workbookFeature3": "Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+          "workbookFeature4": "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+          "workbookFeature5": "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+          "workbookFeature6": "Includes a repair patch to use for quick fixes on the go",
+          "workbookFeature7": "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+        }
+      }
+    },
+    "sku": "84675_BLK_L_Excellent condition",
+    "variant_title": "L / Excellent condition",
+    "variants_count": 20,
+    "barcode": null,
+    "position": 7,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/b7focj1exezoe8vtugse.jpg?v=1724160620",
+    "inventory_policy": "deny",
+    "inventory_quantity": 6,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 59,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Excellent condition",
+      "size": "L"
+    },
+    "option1": "L",
+    "option2": "Excellent condition",
+    "option3": null,
+    "created_at": "2024-04-16T22:17:15.000Z",
+    "updated_at": "2025-08-29T12:07:41.000Z",
+    "published_at": "2023-09-12T13:42:49.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "down-sweater-insulation",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "patagonia-favorites",
+      "best-sellers",
+      "technical-insulation",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462730887464,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      464884269352,
+      465125835048,
+      471069032744,
+      482754920744,
+      497794482472
+    ],
+    "recently_ordered_count": 21,
+    "objectID": "48217385730344",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Down Sweater",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Black",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Down Sweater",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Black",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "84675",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8583159480616",
+    "price": 167,
+    "compare_at_price": 279,
+    "price_ratio": 0.5985663082437276,
+    "price_range": "150:200",
+    "variants_min_price": 134,
+    "variants_max_price": 167,
+    "variants_compare_at_price_min": 279,
+    "variants_compare_at_price_max": 279,
+    "id": 8583159480616,
+    "product_type": "84675",
+    "vendor": "Patagonia",
+    "title": "Men's Down Sweater",
+    "handle": "mens-down-sweater_84675_nena",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/e0aaqcdzwdimoghijfsl.jpg?v=1724160629",
+    "tags": [
+      "Blue",
+      "Jackets",
+      "Men's",
+      "New Navy"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8583159480616",
+      "product:8583159480616",
+      "variant:49123524182312"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 21,
+          "storefrontRank": 28,
+          "weeksOfSupply": 5
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250603",
+          "20250717",
+          "20250723"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Blue"
+        ],
+        "condition": [
+          "Excellent condition",
+          "Great condition",
+          "Good condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$150 - $199",
+          "$100 - $149"
+        ],
+        "markdownReason": [
+          "04"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Down Sweater"
+        ],
+        "season": [
+          "FA24",
+          "FA23"
+        ],
+        "size": [
+          "3XL",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "trove-options": {
+        "size_code": "XL"
+      },
+      "trove-pricing": {
+        "msrp_price": 27900
+      },
+      "trove-product": {
+        "color_code": "NENA",
+        "color_display": "New Navy",
+        "parent_sku": "84675"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "NENA",
+          "colorDisplay": "New Navy",
+          "colorFamily": "Blue",
+          "colorHex": "#001F42",
+          "details": [
+            "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+            "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+            "Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+            "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+            "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+            "Includes a repair patch to use for quick fixes on the go",
+            "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+          ],
+          "endUse": "Multi-Function",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Bestsellers",
+              "Technical Insulation"
+            ],
+            "patagoniaFavorite": [
+              "True"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "insulation": "Down Insulation - Responsible",
+          "material": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Down Sweater",
+          "seasonCode": "FA22",
+          "seasonDisplay": "Fall 2022",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+                    "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+                    "Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+                    "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+                    "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+                    "Includes a repair patch to use for quick fixes on the go",
+                    "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272)"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "13 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Down Sweater",
+          "tradeinValue": "20",
+          "weightOz": "13",
+          "workbookFeature1": "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+          "workbookFeature2": "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement",
+          "workbookFeature3": "Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort",
+          "workbookFeature4": "Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage",
+          "workbookFeature5": "Comfortable nylon-bound elastic cuffs and drawcord hem seal in warmth; hem adjusts with cord lock at front hem",
+          "workbookFeature6": "Includes a repair patch to use for quick fixes on the go",
+          "workbookFeature7": "Patagonia supports Mamata, an organization that provides essential services for the workers who made this product"
+        }
+      }
+    },
+    "sku": "84675_NENA_XL_Excellent condition",
+    "variant_title": "XL / Excellent condition",
+    "variants_count": 16,
+    "barcode": null,
+    "position": 9,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/e0aaqcdzwdimoghijfsl.jpg?v=1724160629",
+    "inventory_policy": "deny",
+    "inventory_quantity": 1,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 10,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Excellent condition",
+      "size": "XL"
+    },
+    "option1": "XL",
+    "option2": "Excellent condition",
+    "option3": null,
+    "created_at": "2024-08-22T12:13:25.000Z",
+    "updated_at": "2025-08-27T23:44:46.000Z",
+    "published_at": "2023-09-12T13:43:00.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "down-sweater-insulation",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "patagonia-favorites",
+      "best-sellers",
+      "technical-insulation",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462730887464,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      464884269352,
+      465125835048,
+      471069032744,
+      482754920744,
+      497794482472
+    ],
+    "recently_ordered_count": 3,
+    "objectID": "49123524182312",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Down Sweater",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Down Sweater",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "New Navy",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "84675",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8583187923240",
+    "price": 170,
+    "compare_at_price": 299,
+    "price_ratio": 0.568561872909699,
+    "price_range": "150:200",
+    "variants_min_price": 170,
+    "variants_max_price": 188,
+    "variants_compare_at_price_min": 299,
+    "variants_compare_at_price_max": 299,
+    "id": 8583187923240,
+    "product_type": "84416",
+    "vendor": "Patagonia",
+    "title": "Men's Nano-Air\u00ae Light Hybrid Hoody",
+    "handle": "mens-nano-air-light-hybrid-hoody_84416_sgry",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/tvkmpwscvghbvgnezi2v.jpg?v=1724160757",
+    "tags": [
+      "Grey",
+      "Jackets",
+      "Men's",
+      "Salt Grey"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8583187923240",
+      "product:8583187923240",
+      "variant:50324161298728"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 41,
+          "storefrontRank": 263,
+          "weeksOfSupply": 50
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250514",
+          "20250423",
+          "20250501"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Grey"
+        ],
+        "condition": [
+          "Excellent condition",
+          "Great condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$150 - $199"
+        ],
+        "markdownReason": [
+          "01"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Nano-Air"
+        ],
+        "season": [
+          "SP23"
+        ],
+        "size": [
+          "3XL",
+          "S",
+          "XXL"
+        ]
+      },
+      "trove-options": {
+        "size_code": "S"
+      },
+      "trove-pricing": {
+        "msrp_price": 29900
+      },
+      "trove-product": {
+        "color_code": "SGRY",
+        "color_display": "Salt Grey",
+        "parent_sku": "84416"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "SGRY",
+          "colorDisplay": "Salt Grey",
+          "colorFamily": "Grey",
+          "colorHex": "#98979A",
+          "details": [
+            "Air permeable, light yet durable 100% recycled polyester shadow ripstop shell and lining offer generous stretch and outstanding breathability, with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+            "Revolutionary 40-g FullRange\u00ae insulation is warm and stretchy; combined with the shell and lining, this provides excellent mobility and air permeability",
+            "R1\u00ae Air fleece panels on the upper and lower back, sides and under the arms add ventilation while wearing a pack, made of 100% recycled polyester hollow-core yarns in a unique zigzag pattern that wicks moisture, dries fast and is highly breathable",
+            "Stretchy hood and soft binding for easy on-off, even when jacket is zipped; minimal center-front zipper with low-profile zipper garage at chin for next-to-skin comfort",
+            "Two low-profile handwarmer pockets with invisible zippers work comfortably with a harness or a pack",
+            "Sleek, partially elasticized cuffs, patterned for minimal water absorption, seal in warmth",
+            "Fair Trade Certified\u2122 sewn, which means the people who made it earned a premium for their labor"
+          ],
+          "endUse": "Multi-Function",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Technical Insulation",
+              "alpineAmbassador"
+            ],
+            "team": [
+              "Alpine"
+            ]
+          },
+          "fit": "Slim fit",
+          "gender": "Men's",
+          "material": "Shell and lining: 1.6-oz 30-denier 100% recycled polyester air permeable shadow ripstop with four-way stretch and a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Contrast panels: 5.7-oz 100% recycled polyester jacquard fleece with hollow-core yarns. Insulation: 40-g FullRange\u00ae 100% polyester (93% recycled). Contrast-panel fabric is certified as bluesign\u00ae approved. Fair Trade Certified\u2122 sewn",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Nano-Air",
+          "seasonCode": "SP23",
+          "seasonDisplay": "Spring 2023",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Air permeable, light yet durable 100% recycled polyester shadow ripstop shell and lining offer generous stretch and outstanding breathability, with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+                    "Revolutionary 40-g FullRange\u00ae insulation is warm and stretchy; combined with the shell and lining, this provides excellent mobility and air permeability",
+                    "R1\u00ae Air fleece panels on the upper and lower back, sides and under the arms add ventilation while wearing a pack, made of 100% recycled polyester hollow-core yarns in a unique zigzag pattern that wicks moisture, dries fast and is highly breathable",
+                    "Stretchy hood and soft binding for easy on-off, even when jacket is zipped; minimal center-front zipper with low-profile zipper garage at chin for next-to-skin comfort",
+                    "Two low-profile handwarmer pockets with invisible zippers work comfortably with a harness or a pack",
+                    "Sleek, partially elasticized cuffs, patterned for minimal water absorption, seal in warmth",
+                    "Fair Trade Certified\u2122 sewn, which means the people who made it earned a premium for their labor"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "Shell and lining: 1.6-oz 30-denier 100% recycled polyester air permeable shadow ripstop with four-way stretch and a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Contrast panels: 5.7-oz 100% recycled polyester jacquard fleece with hollow-core yarns. Insulation: 40-g FullRange\u00ae 100% polyester (93% recycled). Contrast-panel fabric is certified as bluesign\u00ae approved. Fair Trade Certified\u2122 sewn"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "11.8 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Nano-Air\u00ae Light Hybrid Hoody",
+          "weightOz": "11.8",
+          "workbookFeature1": "Air permeable, light yet durable 100% recycled polyester shadow ripstop shell and lining offer generous stretch and outstanding breathability, with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals)",
+          "workbookFeature2": "Revolutionary 40-g FullRange\u00ae insulation is warm and stretchy; combined with the shell and lining, this provides excellent mobility and air permeability",
+          "workbookFeature3": "R1\u00ae Air fleece panels on the upper and lower back, sides and under the arms add ventilation while wearing a pack, made of 100% recycled polyester hollow-core yarns in a unique zigzag pattern that wicks moisture, dries fast and is highly breathable",
+          "workbookFeature4": "Stretchy hood and soft binding for easy on-off, even when jacket is zipped; minimal center-front zipper with low-profile zipper garage at chin for next-to-skin comfort",
+          "workbookFeature5": "Two low-profile handwarmer pockets with invisible zippers work comfortably with a harness or a pack",
+          "workbookFeature6": "Sleek, partially elasticized cuffs, patterned for minimal water absorption, seal in warmth",
+          "workbookFeature7": "Fair Trade Certified\u2122 sewn, which means the people who made it earned a premium for their labor"
+        }
+      }
+    },
+    "sku": "84416_SGRY_S_Great condition",
+    "variant_title": "S / Great condition",
+    "variants_count": 6,
+    "barcode": null,
+    "position": 6,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/tvkmpwscvghbvgnezi2v.jpg?v=1724160757",
+    "inventory_policy": "deny",
+    "inventory_quantity": 1,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 5,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Great condition",
+      "size": "S"
+    },
+    "option1": "S",
+    "option2": "Great condition",
+    "option3": null,
+    "created_at": "2025-06-25T00:46:42.000Z",
+    "updated_at": "2025-08-28T08:55:13.000Z",
+    "published_at": "2023-09-12T13:51:44.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "technical-insulation",
+      "alpine-ambassador-favorites",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      471069032744,
+      473903333672,
+      482754920744,
+      497794482472
+    ],
+    "objectID": "50324161298728",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Nano-Air\u00ae Light Hybrid Hoody",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Grey",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Nano-Air",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Salt Grey",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "84416",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8652929859880",
+    "price": 127,
+    "compare_at_price": 179,
+    "price_ratio": 0.7094972067039106,
+    "price_range": "100:150",
+    "variants_min_price": 102,
+    "variants_max_price": 127,
+    "variants_compare_at_price_min": 179,
+    "variants_compare_at_price_max": 179,
+    "id": 8652929859880,
+    "product_type": "85241",
+    "vendor": "Patagonia",
+    "title": "Men's Torrentshell 3L Rain Jacket",
+    "handle": "mens-torrentshell-3l-rain-jacket_85241_smdb",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/cvtnjzaixhc3uerkc7ms.jpg?v=1724160463",
+    "tags": [
+      "Blue",
+      "Jackets",
+      "Men's",
+      "Smolder Blue"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8652929859880",
+      "product:8652929859880",
+      "variant:49018279690536"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 82,
+          "storefrontRank": 14,
+          "weeksOfSupply": 1
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250819"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Blue"
+        ],
+        "condition": [
+          "Excellent condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$100 - $149"
+        ],
+        "markdownReason": [
+          "03"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Torrentshell"
+        ],
+        "season": [
+          "FA24"
+        ],
+        "size": [
+          "3XL"
+        ]
+      },
+      "trove-options": {
+        "size_code": "3XL"
+      },
+      "trove-pricing": {
+        "msrp_price": 17900
+      },
+      "trove-product": {
+        "color_code": "SMDB",
+        "color_display": "Smolder Blue",
+        "parent_sku": "85241"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "SMDB",
+          "colorDisplay": "Smolder Blue",
+          "colorFamily": "Blue",
+          "colorHex": "#283243",
+          "details": [
+            "Waterproof/breathable H2No\u00ae Performance Standard 3-layer shell with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) provides the highest levels of comfort and performance, and long-term waterproof durability; Fair Trade Certified\u2122 sewn",
+            "Two-way-adjustable hood with a laminated visor rolls down and stows with a simplified cord-and-hook design",
+            "Microfleece-lined neck provides comfort and protects with a waterproof/breathable barrier",
+            "Snag-free center-front zipper with external and internal storm flaps and zipper-garage chin guard",
+            "Two handwarmer pockets and venting pit zips with welted exterior storm flaps",
+            "Self-fabric hook-and-loop cuff closures and an adjustable drawcord hem seal out precipitation",
+            "Jacket self-stuffs into left handwarmer pocket with carabiner clip-in loop"
+          ],
+          "endUse": "Rainwear",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Bestsellers"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "h2No": "H2No",
+          "material": "H2No\u00ae Performance Standard shell: 3-layer, 3.5-oz 50-denier ECONYL\u00ae 100% recycled nylon ripstop face, a polycarbonate PU membrane with 13% biobased content, a tricot backer and a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Fair Trade Certified\u2122 sewn",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Torrentshell",
+          "seasonCode": "SP23",
+          "seasonDisplay": "Spring 2023",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Waterproof/breathable H2No\u00ae Performance Standard 3-layer shell with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) provides the highest levels of comfort and performance, and long-term waterproof durability; Fair Trade Certified\u2122 sewn",
+                    "Two-way-adjustable hood with a laminated visor rolls down and stows with a simplified cord-and-hook design",
+                    "Microfleece-lined neck provides comfort and protects with a waterproof/breathable barrier",
+                    "Snag-free center-front zipper with external and internal storm flaps and zipper-garage chin guard",
+                    "Two handwarmer pockets and venting pit zips with welted exterior storm flaps",
+                    "Self-fabric hook-and-loop cuff closures and an adjustable drawcord hem seal out precipitation",
+                    "Jacket self-stuffs into left handwarmer pocket with carabiner clip-in loop"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "H2No\u00ae Performance Standard shell: 3-layer, 3.5-oz 50-denier ECONYL\u00ae 100% recycled nylon ripstop face, a polycarbonate PU membrane with 13% biobased content, a tricot backer and a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals). Fair Trade Certified\u2122 sewn"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "14.1 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Torrentshell 3L Rain Jacket",
+          "weightOz": "14.1",
+          "workbookFeature1": "Waterproof/breathable H2No\u00ae Performance Standard 3-layer shell with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) provides the highest levels of comfort and performance, and long-term waterproof durability; Fair Trade Certified\u2122 sewn",
+          "workbookFeature2": "Two-way-adjustable hood with a laminated visor rolls down and stows with a simplified cord-and-hook design",
+          "workbookFeature3": "Microfleece-lined neck provides comfort and protects with a waterproof/breathable barrier",
+          "workbookFeature4": "Snag-free center-front zipper with external and internal storm flaps and zipper-garage chin guard",
+          "workbookFeature5": "Two handwarmer pockets and venting pit zips with welted exterior storm flaps",
+          "workbookFeature6": "Self-fabric hook-and-loop cuff closures and an adjustable drawcord hem seal out precipitation",
+          "workbookFeature7": "Jacket self-stuffs into left handwarmer pocket with carabiner clip-in loop"
+        }
+      }
+    },
+    "sku": "85241_SMDB_3XL_Excellent condition",
+    "variant_title": "3XL / Excellent condition",
+    "variants_count": 10,
+    "barcode": null,
+    "position": 5,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/cvtnjzaixhc3uerkc7ms.jpg?v=1724160463",
+    "inventory_policy": "deny",
+    "inventory_quantity": 1,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 1,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Excellent condition",
+      "size": "3XL"
+    },
+    "option1": "3XL",
+    "option2": "Excellent condition",
+    "option3": null,
+    "created_at": "2024-07-31T13:58:20.000Z",
+    "updated_at": "2025-08-28T08:22:24.000Z",
+    "published_at": "2023-09-24T13:46:20.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "best-sellers",
+      "rainwear",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      465125835048,
+      473951863080,
+      482754920744,
+      497794482472
+    ],
+    "objectID": "49018279690536",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Torrentshell 3L Rain Jacket",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Torrentshell",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Smolder Blue",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "85241",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8910594867496",
+    "price": 190,
+    "compare_at_price": 279,
+    "price_ratio": 0.6810035842293907,
+    "price_range": "150:200",
+    "variants_min_price": 171,
+    "variants_max_price": 190,
+    "variants_compare_at_price_min": 279,
+    "variants_compare_at_price_max": 279,
+    "id": 8910594867496,
+    "product_type": "85415",
+    "vendor": "Patagonia",
+    "title": "Men's Granite Crest Jacket",
+    "handle": "mens-granite-crest-jacket_85415_shrg",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/isebbgdvbywdfhpwqufs.jpg?v=1724160435",
+    "tags": [
+      "Green",
+      "Jackets",
+      "Men's",
+      "Shrub Green"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:8910594867496",
+      "product:8910594867496",
+      "variant:49148456698152"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 38,
+          "storefrontRank": 530,
+          "weeksOfSupply": 1
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20240827"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Green"
+        ],
+        "condition": [
+          "Excellent condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$150 - $199"
+        ],
+        "markdownReason": [
+          "08"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Granite Crest"
+        ],
+        "season": [
+          "FA23"
+        ],
+        "size": [
+          "XS"
+        ]
+      },
+      "trove-options": {
+        "size_code": "XS"
+      },
+      "trove-pricing": {
+        "msrp_price": 27900
+      },
+      "trove-product": {
+        "color_code": "SHRG",
+        "color_display": "Shrub Green",
+        "parent_sku": "85415"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "SHRG",
+          "colorDisplay": "Shrub Green",
+          "colorFamily": "Green",
+          "colorHex": "#A19436",
+          "details": [
+            "Shell is made of 3-layer H2No\u00ae Performance Standard NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a slick jersey backer, a waterproof/breathable barrier and a PFC-free DWR (durable water repellent) finish; the shell is PFC-free\u2014that means the fabric, membrane and finishes do not contain perfluorinated chemicals",
+            "Hood with laminated visor effectively sheds water, plus two-way adjustment provides good visibility in poor conditions with or without a helmet",
+            "Center-front zipper and chest pocket with watertight zips and zipper garages; two welted handwarmer pockets stay clear of pack waistbelt or harness",
+            "Pit zips with welted, watertight two-way zippers provide ventilation",
+            "Jacket has low-profile self-fabric hook-and-loop cuff closures and self-stuffs into left-chest pocket",
+            "Adjustable drawcord cinch at hem is routed up through front pockets to seal out weather and reduce bulk under pack waistbelt",
+            "Made in a Fair Trade Certified\u2122 factory, which means the people who made this product earned a premium for their labor"
+          ],
+          "endUse": "Rainwear",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "h2No": "H2No",
+          "material": "PFC-free H2No\u00ae Performance Standard shell (fabric, membrane, and finishes do not contain perfluorinated chemicals): 3-layer, 3-oz 30-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a slick jersey backer, a waterproof/breathable barrier and a PFC-free DWR (durable water repellent) finish. Made in a Fair Trade Certified\u2122 factory",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Granite Crest",
+          "seasonCode": "FA23",
+          "seasonDisplay": "Fall 2023",
+          "sizeCode": "XXL",
+          "sizeDisplay": "XXL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Shell is made of 3-layer H2No\u00ae Performance Standard NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a slick jersey backer, a waterproof/breathable barrier and a PFC-free DWR (durable water repellent) finish; the shell is PFC-free\u2014that means the fabric, membrane and finishes do not contain perfluorinated chemicals",
+                    "Hood with laminated visor effectively sheds water, plus two-way adjustment provides good visibility in poor conditions with or without a helmet",
+                    "Center-front zipper and chest pocket with watertight zips and zipper garages; two welted handwarmer pockets stay clear of pack waistbelt or harness",
+                    "Pit zips with welted, watertight two-way zippers provide ventilation",
+                    "Jacket has low-profile self-fabric hook-and-loop cuff closures and self-stuffs into left-chest pocket",
+                    "Adjustable drawcord cinch at hem is routed up through front pockets to seal out weather and reduce bulk under pack waistbelt",
+                    "Made in a Fair Trade Certified\u2122 factory, which means the people who made this product earned a premium for their labor"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "PFC-free H2No\u00ae Performance Standard shell (fabric, membrane, and finishes do not contain perfluorinated chemicals): 3-layer, 3-oz 30-denier NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a slick jersey backer, a waterproof/breathable barrier and a PFC-free DWR (durable water repellent) finish. Made in a Fair Trade Certified\u2122 factory"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "14.1 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Granite Crest Jacket",
+          "tradeinValue": "60",
+          "weightOz": "14.1",
+          "workbookFeature1": "Shell is made of 3-layer H2No\u00ae Performance Standard NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a slick jersey backer, a waterproof/breathable barrier and a PFC-free DWR (durable water repellent) finish; the shell is PFC-free\u2014that means the fabric, membrane and finishes do not contain perfluorinated chemicals",
+          "workbookFeature2": "Hood with laminated visor effectively sheds water, plus two-way adjustment provides good visibility in poor conditions with or without a helmet",
+          "workbookFeature3": "Center-front zipper and chest pocket with watertight zips and zipper garages; two welted handwarmer pockets stay clear of pack waistbelt or harness",
+          "workbookFeature4": "Pit zips with welted, watertight two-way zippers provide ventilation",
+          "workbookFeature5": "Jacket has low-profile self-fabric hook-and-loop cuff closures and self-stuffs into left-chest pocket",
+          "workbookFeature6": "Adjustable drawcord cinch at hem is routed up through front pockets to seal out weather and reduce bulk under pack waistbelt",
+          "workbookFeature7": "Made in a Fair Trade Certified\u2122 factory, which means the people who made this product earned a premium for their labor"
+        }
+      }
+    },
+    "sku": "85415_SHRG_XS_Excellent condition",
+    "variant_title": "XS / Excellent condition",
+    "variants_count": 5,
+    "barcode": null,
+    "position": 2,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/isebbgdvbywdfhpwqufs.jpg?v=1724160435",
+    "inventory_policy": "deny",
+    "inventory_quantity": 1,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 1,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Excellent condition",
+      "size": "XS"
+    },
+    "option1": "XS",
+    "option2": "Excellent condition",
+    "option3": null,
+    "created_at": "2024-08-28T03:44:28.000Z",
+    "updated_at": "2025-08-28T08:28:37.000Z",
+    "published_at": "2024-02-22T16:58:23.000Z",
+    "collections": [
+      "all",
+      "mens",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "mens-rain-and-waterproof-jackets",
+      "shop-by-activity",
+      "climbing",
+      "rainwear",
+      "jackets-web-specials",
+      "mens-web-specials",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      462728298792,
+      462741176616,
+      462741700904,
+      462741930280,
+      462742749480,
+      462748811560,
+      462763950376,
+      462764310824,
+      473951863080,
+      478990434600,
+      478990893352,
+      482754920744,
+      497794482472
+    ],
+    "objectID": "49148456698152",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Granite Crest Jacket",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Green",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Granite Crest",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Shrub Green",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "85415",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "9428374618408",
+    "price": 127,
+    "compare_at_price": 179,
+    "price_ratio": 0.7094972067039106,
+    "price_range": "100:150",
+    "variants_min_price": 114,
+    "variants_max_price": 127,
+    "variants_compare_at_price_min": 179,
+    "variants_compare_at_price_max": 179,
+    "id": 9428374618408,
+    "product_type": "85241",
+    "vendor": "Patagonia",
+    "title": "Men's Torrentshell 3L Rain Jacket",
+    "handle": "mens-torrentshell-3l-rain-jacket_85241_stle",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/hkaak0epvdjcpxyo8ooy.jpg?v=1725560928",
+    "tags": [
+      "Blue",
+      "Jackets",
+      "Men's",
+      "Subtidal Blue"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:9428374618408",
+      "product:9428374618408",
+      "variant:49539716809000"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 92,
+          "storefrontRank": 153,
+          "weeksOfSupply": 1
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250821"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Blue"
+        ],
+        "condition": [
+          "Excellent condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$100 - $149"
+        ],
+        "markdownReason": [
+          "03"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Torrentshell"
+        ],
+        "season": [
+          "SP24"
+        ],
+        "size": [
+          "S"
+        ]
+      },
+      "trove-options": {
+        "size_code": "S"
+      },
+      "trove-pricing": {
+        "msrp_price": 17900
+      },
+      "trove-product": {
+        "color_code": "STLE",
+        "color_display": "Subtidal Blue",
+        "parent_sku": "85241"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "STLE",
+          "colorDisplay": "Subtidal Blue",
+          "colorFamily": "Blue",
+          "colorHex": "#009499",
+          "details": [
+            "Waterproof/breathable H2No\u00ae Performance Standard 3-layer shell provides the highest levels of comfort, performance and long-term waterproof durability; the fabrics, membrane and durable water repellent (DWR) finish are made without perfluorinated chemicals (PFCs/PFAS)",
+            "Two-way-adjustable hood with a laminated visor rolls down and stows with a simplified cord-and-hook design",
+            "Microfleece-lined neck provides comfort and protects with a waterproof/breathable barrier",
+            "Snag-free center-front zipper with external and internal storm flaps, and a zipper garage protects the chin",
+            "Two handwarmer pockets and venting pit zips with welted exterior storm flaps; the jacket self-stuffs into the left handwarmer pocket with a carabiner clip-in loop",
+            "Self-fabric hook-and-loop cuff closures and an adjustable drawcord hem seal out precipitation",
+            "Made in a Fair Trade Certified\u2122 factory, which means the people who made this product earned a premium for their labor"
+          ],
+          "endUse": "Multi-Function",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Bestsellers"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "h2No": "H2No",
+          "material": "H2No\u00ae Performance Standard shell made without perfluorinated chemicals (fabrics, membrane and finishes made without PFCs/PFAS): 3-layer, 3.5-oz 50-denier ECONYL\u00ae 100% recycled nylon ripstop face, a polycarbonate PU membrane with 13% biobased content, a tricot backer and a DWR finish. Made in a Fair Trade Certified\u2122 factory",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Torrentshell",
+          "seasonCode": "SP24",
+          "seasonDisplay": "Spring 2024",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Waterproof/breathable H2No\u00ae Performance Standard 3-layer shell provides the highest levels of comfort, performance and long-term waterproof durability; the fabrics, membrane and durable water repellent (DWR) finish are made without perfluorinated chemicals (PFCs/PFAS)",
+                    "Two-way-adjustable hood with a laminated visor rolls down and stows with a simplified cord-and-hook design",
+                    "Microfleece-lined neck provides comfort and protects with a waterproof/breathable barrier",
+                    "Snag-free center-front zipper with external and internal storm flaps, and a zipper garage protects the chin",
+                    "Two handwarmer pockets and venting pit zips with welted exterior storm flaps; the jacket self-stuffs into the left handwarmer pocket with a carabiner clip-in loop",
+                    "Self-fabric hook-and-loop cuff closures and an adjustable drawcord hem seal out precipitation",
+                    "Made in a Fair Trade Certified\u2122 factory, which means the people who made this product earned a premium for their labor"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "H2No\u00ae Performance Standard shell made without perfluorinated chemicals (fabrics, membrane and finishes made without PFCs/PFAS): 3-layer, 3.5-oz 50-denier ECONYL\u00ae 100% recycled nylon ripstop face, a polycarbonate PU membrane with 13% biobased content, a tricot backer and a DWR finish. Made in a Fair Trade Certified\u2122 factory"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "14.1 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Torrentshell 3L Rain Jacket",
+          "weightOz": "14.1",
+          "workbookFeature1": "Waterproof/breathable H2No\u00ae Performance Standard 3-layer shell provides the highest levels of comfort, performance and long-term waterproof durability; the fabrics, membrane and durable water repellent (DWR) finish are made without perfluorinated chemicals (PFCs/PFAS)",
+          "workbookFeature2": "Two-way-adjustable hood with a laminated visor rolls down and stows with a simplified cord-and-hook design",
+          "workbookFeature3": "Microfleece-lined neck provides comfort and protects with a waterproof/breathable barrier",
+          "workbookFeature4": "Snag-free center-front zipper with external and internal storm flaps, and a zipper garage protects the chin",
+          "workbookFeature5": "Two handwarmer pockets and venting pit zips with welted exterior storm flaps; the jacket self-stuffs into the left handwarmer pocket with a carabiner clip-in loop",
+          "workbookFeature6": "Self-fabric hook-and-loop cuff closures and an adjustable drawcord hem seal out precipitation",
+          "workbookFeature7": "Made in a Fair Trade Certified\u2122 factory, which means the people who made this product earned a premium for their labor"
+        }
+      }
+    },
+    "sku": "85241_STLE_S_Excellent condition",
+    "variant_title": "S / Excellent condition",
+    "variants_count": 8,
+    "barcode": null,
+    "position": 4,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/hkaak0epvdjcpxyo8ooy.jpg?v=1725560928",
+    "inventory_policy": "deny",
+    "inventory_quantity": 1,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 1,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Excellent condition",
+      "size": "S"
+    },
+    "option1": "S",
+    "option2": "Excellent condition",
+    "option3": null,
+    "created_at": "2024-11-20T03:11:58.000Z",
+    "updated_at": "2025-08-28T08:22:46.000Z",
+    "published_at": "2024-09-05T11:28:45.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "best-sellers",
+      "rainwear",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      465125835048,
+      473951863080,
+      482754920744,
+      497794482472
+    ],
+    "objectID": "49539716809000",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Torrentshell 3L Rain Jacket",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Blue",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Torrentshell",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Subtidal Blue",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "85241",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "9488573497640",
+    "price": 151,
+    "compare_at_price": 279,
+    "price_ratio": 0.5412186379928315,
+    "price_range": "150:200",
+    "variants_min_price": 151,
+    "variants_max_price": 167,
+    "variants_compare_at_price_min": 279,
+    "variants_compare_at_price_max": 279,
+    "id": 9488573497640,
+    "product_type": "84675",
+    "vendor": "Patagonia",
+    "title": "Men's Down Sweater\u2122",
+    "handle": "mens-down-sweater_84675_feg",
+    "template_suffix": "",
+    "product_image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/jrhj94cwwzcyevkmio01.jpg?v=1731090407",
+    "tags": [
+      "Forge Grey W/Forge Grey",
+      "Grey",
+      "Jackets",
+      "Men's"
+    ],
+    "named_tags": {},
+    "named_tags_names": [],
+    "_tags": [
+      "id:9488573497640",
+      "product:9488573497640",
+      "variant:49562687340840"
+    ],
+    "meta": {
+      "trove-analytics": {
+        "analytics_data": {
+          "probabilityOfSale90Days": 34,
+          "storefrontRank": 638,
+          "weeksOfSupply": 7
+        }
+      },
+      "trove-facets": {
+        "added": [
+          "20250624"
+        ],
+        "catalogItemType": [
+          "TRADITIONAL_SKU"
+        ],
+        "category": [
+          "Jackets"
+        ],
+        "color": [
+          "Grey"
+        ],
+        "condition": [
+          "Excellent condition",
+          "Great condition"
+        ],
+        "department": [
+          "Men's"
+        ],
+        "gender": [
+          "Men's"
+        ],
+        "itemStorefrontPriceRange": [
+          "$150 - $199"
+        ],
+        "markdownReason": [
+          "01"
+        ],
+        "patagoniaCategory": [
+          "Outerwear"
+        ],
+        "patagoniaClass": [
+          "Outerwear Jackets"
+        ],
+        "patagoniaDepartment": [
+          "Men's"
+        ],
+        "patagoniaFamily": [
+          "Down Sweater"
+        ],
+        "season": [
+          "FA24",
+          "SP25"
+        ],
+        "size": [
+          "3XL",
+          "L",
+          "S",
+          "XS",
+          "XXL"
+        ]
+      },
+      "trove-options": {
+        "size_code": "L"
+      },
+      "trove-pricing": {
+        "msrp_price": 27900
+      },
+      "trove-product": {
+        "color_code": "FEG",
+        "color_display": "Forge Grey W/Forge Grey",
+        "parent_sku": "84675"
+      },
+      "trove-storefront": {
+        "data": {
+          "brand": "Patagonia",
+          "colorCode": "FEG",
+          "colorDisplay": "Forge Grey W/Forge Grey",
+          "colorHex": "#363733",
+          "details": [
+            "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a durable water repellent (DWR) finish made without perfluorinated chemicals (PFCs/PFAS)",
+            "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); the quilting is patterned for warmth and movement",
+            "Center-front zipper has an interior storm flap, and a zipper garage at the chin offers next-to-skin comfort",
+            "Two on-seam handwarmer pockets with welted zippers, one interior zippered chest pocket converts to a stuffsack with a carabiner clip-in loop, and two interior drop-in pockets provide additional storage",
+            "Comfortable nylon-bound elastic cuffs seal in warmth, and the hem adjusts with a cord lock",
+            "Includes a repair patch to use for quick fixes on the go",
+            "Patagonia supports Mamata, an organization that provides essential services for the workers that made this product"
+          ],
+          "endUse": "Multi-Function",
+          "family": {
+            "patagoniaActivity": [
+              "True"
+            ],
+            "patagoniaCuratedShop": [
+              "Bestsellers",
+              "Technical Insulation"
+            ],
+            "patagoniaFavorite": [
+              "True"
+            ]
+          },
+          "fit": "Regular fit",
+          "gender": "Men's",
+          "material": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon downproof ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a durable water repellent (DWR) finish made without perfluorinated chemicals (PFCs/PFAS). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272). Fabric is certified as bluesign\u00ae approved",
+          "patagoniaCategory": "Outerwear",
+          "patagoniaClass": "Outerwear Jackets",
+          "patagoniaDepartment": "Men's",
+          "patagoniaFamily": "Down Sweater",
+          "seasonCode": "FA24",
+          "seasonDisplay": "Fall 2024",
+          "sizeCode": "3XL",
+          "sizeDisplay": "3XL",
+          "storefrontCopy": [
+            {
+              "elements": [
+                {
+                  "type": "list",
+                  "value": [
+                    "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a durable water repellent (DWR) finish made without perfluorinated chemicals (PFCs/PFAS)",
+                    "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); the quilting is patterned for warmth and movement",
+                    "Center-front zipper has an interior storm flap, and a zipper garage at the chin offers next-to-skin comfort",
+                    "Two on-seam handwarmer pockets with welted zippers, one interior zippered chest pocket converts to a stuffsack with a carabiner clip-in loop, and two interior drop-in pockets provide additional storage",
+                    "Comfortable nylon-bound elastic cuffs seal in warmth, and the hem adjusts with a cord lock",
+                    "Includes a repair patch to use for quick fixes on the go",
+                    "Patagonia supports Mamata, an organization that provides essential services for the workers that made this product"
+                  ]
+                }
+              ],
+              "header": "Product Details"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "Shell and lining: 1.2-oz 20-denier NetPlus\u00ae 100% postconsumer recycled nylon downproof ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a durable water repellent (DWR) finish made without perfluorinated chemicals (PFCs/PFAS). Insulation: 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272). Fabric is certified as bluesign\u00ae approved"
+                }
+              ],
+              "header": "Material"
+            },
+            {
+              "elements": [
+                {
+                  "type": "body",
+                  "value": "13 ounces"
+                }
+              ],
+              "header": "Weight"
+            }
+          ],
+          "team": "Alpine",
+          "title": "Men's Down Sweater\u2122",
+          "tradeinValue": "20",
+          "weightOz": "13",
+          "workbookFeature1": "Durable shell fabric is made of NetPlus\u00ae 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a durable water repellent (DWR) finish made without perfluorinated chemicals (PFCs/PFAS)",
+          "workbookFeature2": "Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); the quilting is patterned for warmth and movement",
+          "workbookFeature3": "Center-front zipper has an interior storm flap, and a zipper garage at the chin offers next-to-skin comfort",
+          "workbookFeature4": "Two on-seam handwarmer pockets with welted zippers, one interior zippered chest pocket converts to a stuffsack with a carabiner clip-in loop, and two interior drop-in pockets provide additional storage",
+          "workbookFeature5": "Comfortable nylon-bound elastic cuffs seal in warmth, and the hem adjusts with a cord lock",
+          "workbookFeature6": "Includes a repair patch to use for quick fixes on the go",
+          "workbookFeature7": "Patagonia supports Mamata, an organization that provides essential services for the workers that made this product"
+        }
+      }
+    },
+    "sku": "84675_FEG_L_Great condition",
+    "variant_title": "L / Great condition",
+    "variants_count": 10,
+    "barcode": null,
+    "position": 3,
+    "requires_shipping": true,
+    "taxable": true,
+    "body_html_safe": "",
+    "image": "https://cdn.shopify.com/s/files/1/0751/2601/4248/files/jrhj94cwwzcyevkmio01.jpg?v=1731090407",
+    "inventory_policy": "deny",
+    "inventory_quantity": 2,
+    "inventory_available": true,
+    "grams": 0,
+    "weight": "0.0lb",
+    "variants_inventory_count": 7,
+    "option_names": [
+      "size",
+      "condition"
+    ],
+    "options": {
+      "condition": "Great condition",
+      "size": "L"
+    },
+    "option1": "L",
+    "option2": "Great condition",
+    "option3": null,
+    "created_at": "2024-11-26T11:25:01.000Z",
+    "updated_at": "2025-08-24T15:48:40.000Z",
+    "published_at": "2024-11-08T10:26:45.000Z",
+    "collections": [
+      "just-added",
+      "all",
+      "down-sweater-insulation",
+      "mens",
+      "mens-just-added",
+      "mens-jackets-and-vests",
+      "mens-jackets",
+      "mens-insulated-and-down-jackets",
+      "shop-by-activity",
+      "climbing",
+      "patagonia-favorites",
+      "best-sellers",
+      "technical-insulation",
+      "jackets",
+      "outerwear"
+    ],
+    "collection_ids": [
+      458693345576,
+      462728298792,
+      462730887464,
+      462741176616,
+      462741307688,
+      462741700904,
+      462741930280,
+      462742749480,
+      462763950376,
+      462764310824,
+      464884269352,
+      465125835048,
+      471069032744,
+      482754920744,
+      497794482472
+    ],
+    "recently_ordered_count": 1,
+    "objectID": "49562687340840",
+    "_snippetResult": {
+      "body_html_safe": {
+        "value": "",
+        "matchLevel": "none"
+      }
+    },
+    "_highlightResult": {
+      "title": {
+        "value": "Men's Down Sweater\u2122",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "meta": {
+        "trove-facets": {
+          "color": [
+            {
+              "value": "Grey",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "department": [
+            {
+              "value": "Men's",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaCategory": [
+            {
+              "value": "Outerwear",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "patagoniaFamily": [
+            {
+              "value": "Down Sweater",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "trove-product": {
+          "color_display": {
+            "value": "Forge Grey W/Forge Grey",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "parent_sku": {
+            "value": "84675",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        }
+      }
+    }
+  }
+]
