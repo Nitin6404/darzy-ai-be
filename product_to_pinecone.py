@@ -299,32 +299,58 @@ class ProductToPinecone:
         stats = self.index.describe_index_stats()
         print(f"Index stats: {stats}")
     
-    def search_products(self, query: str, top_k: int = 5) -> List[Dict[str, Any]]:
+    def get_query_embedding(self, query: str) -> List[float]:
+        """Return vector for a natural language query"""
+        return self.embedder.embed_query(query)
+
+    def search(
+        self, 
+        query_embedding: List[float], 
+        top_k: int = 5, 
+        filters: dict = None
+    ) -> List[Dict[str, Any]]:
         """
-        Search for products using natural language query
-        
-        Args:
-            query: Search query
-            top_k: Number of results to return
-            
-        Returns:
-            List of matching products with scores
+        Search Pinecone with optional metadata filters.
         """
-        if not self.index:
-            print("Index not initialized. Call setup_index() first.")
-            return []
-        
-        # Generate query embedding
-        query_embedding = self.embedder.embed_query(query)
-        
-        # Search in Pinecone
-        results = self.index.query(
-            vector=query_embedding,
-            top_k=top_k,
-            include_metadata=True
-        )
-        
+        query_args = {
+            "vector": query_embedding,
+            "top_k": top_k,
+            "include_metadata": True
+        }
+        if filters:
+            query_args["filter"] = filters
+
+        results = self.index.query(**query_args)
         return results.matches
+
+    def format_search_results(self, matches: List[Dict[str, Any]]) -> List[dict]:
+        """Return search results in clean, consistent format"""
+        formatted = []
+        for m in matches:
+            formatted.append({
+                "id": m.id,
+                "score": m.score,
+                "title": m.metadata.get("title"),
+                "brand": m.metadata.get("brand"),
+                "price": m.metadata.get("price"),
+                "category": m.metadata.get("category"),
+                "color": m.metadata.get("color")
+            })
+        return formatted
+
+    def query_products(
+        self,
+        query: str,
+        top_k: int = 5,
+        filters: dict = None
+    ) -> list[dict]:
+        """
+        One-line method to query products using natural language + optional filters.
+        Returns formatted results.
+        """
+        embedding = self.get_query_embedding(query)
+        matches = self.search(embedding, top_k=top_k, filters=filters)
+        return self.format_search_results(matches)
 
 def main():
     """
@@ -355,16 +381,20 @@ def main():
         # Example search
         print("\n" + "="*50)
         print("Testing search functionality:")
-        results = processor.search_products("blue jacket patagonia", top_k=3)
+        filters = {"brand": {"$eq": "Patagonia"}, "color": {"$in": ["blue"]}}
+        results = processor.query_products("jacket", top_k=5, filters=filters)
         
-        for i, result in enumerate(results, 1):
-            print(f"\nResult {i} (Score: {result.score:.4f}):")
-            metadata = result.metadata
-            print(f"  Title: {metadata.get('title', 'N/A')}")
-            print(f"  Brand: {metadata.get('brand', 'N/A')}")
-            print(f"  Price: ${metadata.get('price', 'N/A')}")
-            print(f"  Category: {metadata.get('category', 'N/A')}")
-            print(f"  Color: {metadata.get('color_display', 'N/A')}")
+        # for i, result in enumerate(results, 1):
+        #     print(f"\nResult {i} (Score: {result.score:.4f}):")
+        #     metadata = result.metadata
+        #     print(f"  Title: {metadata.get('title', 'N/A')}")
+        #     print(f"  Brand: {metadata.get('brand', 'N/A')}")
+        #     print(f"  Price: ${metadata.get('price', 'N/A')}")
+        #     print(f"  Category: {metadata.get('category', 'N/A')}")
+        #     print(f"  Color: {metadata.get('color_display', 'N/A')}")
+
+        for r in results:
+            print(r)
         
     except Exception as e:
         print(f"Error during processing: {e}")
